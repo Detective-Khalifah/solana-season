@@ -23,7 +23,7 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 - [Solana Program Library Docs](https://spl.solana.com/)
 - [Wormhole Documentation: Ethereum<>Solana bi-directional bridge](https://github.com/certusone/wormhole)
 
-### Rest Resources
+### Rust Resources
 
 - [Rust Resources](https://github.com/solana-labs/solana-season/blob/master/rust-resources.md)
 
